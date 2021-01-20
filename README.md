@@ -1,4 +1,4 @@
-# JOSPON-with-Pytorch
+# -with-Pytorch
 Judge of sentence positive or negative with PyTorch
 句子正負面情緒判斷類神經網路模型，使用PyTorch
 
